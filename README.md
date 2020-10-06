@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="packages\mobile\src\assets\images\logo@3x.png">
+    <h1>Proffy</h1>
 </div>
 
 <div align="center">
